@@ -8,6 +8,7 @@
 .idea/*
         **/target
 *.iml
+*.vs
 
 # User-specific stuff
 .idea/**/workspace.xml
